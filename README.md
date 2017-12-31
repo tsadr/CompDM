@@ -1,2 +1,0 @@
-# CompDM
-Presentation & Code(Soon!)
